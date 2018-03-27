@@ -8,7 +8,7 @@
 
 [link text:"Advantages of Membership in the Federal Reserve System" href:"https://fraser.stlouisfed.org/files/docs/historical/frbsl_history/general_advantages_membership_1922.pdf"/]
 
-
+[section className:"article-body"]
 
 
 ## Purpose of the Federal Reserve Act
@@ -104,3 +104,11 @@ as follows:
 It is hoped that every well-conducted, eligible non­member bank will carefully consider this matter and join the System. This would strengthen the whole financial, industrial and commercial situation and prove mutually beneficial. Blanks for use in making application for membership, or additional information, will be furnished upon request.
 
 **WILLIAM McC. MARTIN, Chairman of the Board and Federal Reserve Agent**
+
+[/section]
+[section className:"usa-footer"]
+[i]
+This document was created with [link href:"https://idyll-lang.org/" text:"Idyll" /], a new markup language for
+creating interactive documents. See the [link text:"markup used to create this page" href:"https://github.com/johnrieth/advantages/blob/master/index.idl"/].
+[/i]
+[/section]
